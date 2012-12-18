@@ -50,9 +50,9 @@ hr{
 display: block; 
 height: 1px;
 border: 0; 
-border-top: 1px solid #222;
+border-top: 1px solid #111;
 margin: 1em 0; padding: 0; 
-background-color: #222;
+background-color: #111;
 }
 
 .navPill{
@@ -62,4 +62,13 @@ border:2px solid #1e1e1e;
 
 .header-accent{
 color:#8632a7;
+}
+ul.pager li a{
+background-color: #120f12;
+border-color: #000000;
+}
+
+li.next.disabled a{
+background-color: #120f12;
+border-color: #000000;
 }
