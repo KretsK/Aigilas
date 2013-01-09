@@ -1,3 +1,6 @@
 aigilas/
 *~
 .DS_Store
+*.iml
+pkg/
+launcher/
