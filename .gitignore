@@ -4,3 +4,5 @@ aigilas/
 *.iml
 pkg/
 launcher/
+aigilas.log
+.idea
